@@ -16,7 +16,7 @@ This Node.js backend REST API was built in the [Node.js & Express for Beginners 
 
 JWT Token Rotation was added in a [bonus video chapter](https://youtu.be/s-4k5TcGKHg).
 
-I use this Node.js backend REST API in my [Redux JWT Authentication tutorial](https://youtu.be/QIVjr76Y6Yo).
+I use this Node.js backend REST API in my [Redux JWT Authentication tutorial](https://youtu.be/-JJFQ9bkUbo).
 
 ### Academic Honesty
 
